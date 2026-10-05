@@ -1,0 +1,6 @@
+{
+  "name": "Kayıp Lezzetler Atlası",
+  "description": "Türkiye'nin kaybolan lezzetlerini, unutulmaya yüz tutmuş tariflerini, sözlü hikâyelerini ve yerel üreticilerini bir araya getiren dijital gastronomi ve kültürel miras atlası.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
